@@ -1,7 +1,8 @@
-# node-ssh-update-nginx
+
+# ssh-update-nginx
 
 ```
-const sshNginx = require('node-ssh-update-nginx')
+const sshNginx = require('ssh-update-nginx')
 
 new sshNginx({
   host: '197.0.0.1', // ip
