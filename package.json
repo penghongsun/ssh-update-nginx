@@ -1,7 +1,7 @@
 {
   "name": "ssh-update-nginx",
   "version": "1.2.0",
-  "description": "``` const sshNginx = require('node-ssh-update-nginx')",
+  "description": "const sshNginx = require('ssh-update-nginx')",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
