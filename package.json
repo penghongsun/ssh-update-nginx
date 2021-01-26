@@ -1,0 +1,31 @@
+{
+  "name": "ssh-update-nginx",
+  "version": "1.0.0",
+  "description": "``` const sshNginx = require('node-ssh-update-nginx')",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/penghongsun/ssh-update-nginx.git"
+  },
+  "keywords": [
+    "node",
+    "ssh",
+    "upload",
+    "nginx",
+    "sftp"
+  ],
+  "author": "penghongsun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/penghongsun/ssh-update-nginx/issues"
+  },
+  "homepage": "https://github.com/penghongsun/ssh-update-nginx#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "node-ssh": "^11.1.1",
+    "open": "^7.3.1"
+  }
+}
